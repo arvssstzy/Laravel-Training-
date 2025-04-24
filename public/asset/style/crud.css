@@ -1,0 +1,57 @@
+.addstudent-btn {
+    background-color: #627D4D;
+    border-color: #627D4D;
+    color: white;
+}
+
+.addstudent-btn:hover {
+    background-color: #546C42;
+    border-color: #546C42;
+}
+.addtrn-btn {
+    background-color: #627D4D;
+    border-color: #627D4D;
+    color: white;
+}
+
+.addtrn-btn:hover {
+    background-color: #546C42;
+    border-color: #546C42;
+}
+
+
+.edit-btn {
+    background-color: #627D4D !important;
+    border-color: #627D4D !important;
+    color: white !important;
+}
+
+.edit-btn:hover {
+    background-color: #546C42 !important;
+    border-color: #546C42 !important;
+}
+
+/* FOR MODAL  */
+.modal-header {
+    background-color: #627D4D; /* Set your custom color here */
+    color: white; /* Adjust text color */
+}
+
+.modal-header .modal-title {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #627D4D;
+    border: none;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #546C42; /* Slightly darker shade for hover effect */
+    border-color: #546C42;
+}
+.btn-secondary {
+    border: none;
+    color: white;
+}
